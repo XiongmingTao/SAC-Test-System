@@ -24,5 +24,5 @@ This sheet presents the sharding scheme obtained by assigning prosumers using th
 ### System_Network
 This sheet provides the parameters of the system buses and lines.
 <div align="center">
-  <img src = "/IMG/img3.png"/>
+  <img src = "/IMG/img4.png"/>
 </div> 
