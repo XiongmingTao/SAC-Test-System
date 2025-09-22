@@ -4,7 +4,7 @@ The specific configurations of the five test systems for the SAC mechanism and t
 The approach is applied to numerical simulations on 24 bus, 66 bus, 109 bus, 151 bus, and 179 bus systems, which are extended from the original IEEE test systems. Details of the files are provided below.
 ## The details of the test system.
 <div align="center">
-  <img src = "/IMG/img1.png"/>
+  <img src = "/IMG/img1-1.png"/>
 </div> 
 
 Each Excel file contains four sheets: Producers, Consumers, Shard_Info, and System_Network. The details are described below:
@@ -18,7 +18,7 @@ These sheets contain detailed information for producers and consumers, including
 ### Shard_Info
 This sheet presents the sharding scheme obtained by assigning prosumers using the proposed sharding method.
 <div align="center">
-  <img src = "/IMG/img3.png"/>
+  <img src = "/IMG/img3-1.png"/>
 </div> 
 
 ### System_Network
